@@ -1,12 +1,12 @@
 <?php
 
-$str = "Manish Suthar";
+$str = "Sandip Limbasiya";
 
 echo "String = " . $str . "<br><br>";
 
 echo "Length = " . strlen($str) . "<br>";
 
-echo "Position of Vaya = " . strpos($str, "Vaya") . "<br>";
+echo "Position of Limbasiya = " . strpos($str, "Limbasiya") . "<br>";
 
 echo "Word Count = " . str_word_count($str) . "<br>";
 
