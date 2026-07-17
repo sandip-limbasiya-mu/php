@@ -18,7 +18,7 @@
 
 <?php
 
-$conn = mysqli_connect("localhost","root","","bca_5c");
+$conn = mysqli_connect("localhost","root","","Bca_5C");
 
 $sql = "SELECT * FROM users";
 $result = mysqli_query($conn,$sql);
