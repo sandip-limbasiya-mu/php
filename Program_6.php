@@ -15,5 +15,4 @@ foreach($no as $n)
 {
     echo $n . "<br>";
 }
-
 ?>
