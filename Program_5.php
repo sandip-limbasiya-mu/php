@@ -1,5 +1,5 @@
 <?php
-echo "<h3>Using While Loop</h3>";
+echo "<h3>While Loop</h3>";
 
 $i = 15;
 
@@ -9,7 +9,7 @@ while($i <= 20)
     $i++;
 }
 
-echo "<h3>Using Do While Loop</h3>";
+echo "<h3> Do While Loop</h3>";
 
 $j = 15;
 
@@ -19,5 +19,4 @@ do
     $j++;
 }
 while($j <= 20);
-
 ?>
