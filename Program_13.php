@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Registration Form</title>
+    
     <style>
         form{
             background-color: #153237;
