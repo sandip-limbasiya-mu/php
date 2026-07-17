@@ -6,7 +6,8 @@ sort($arr);
 
 echo "Sorted Array: <br>";
 
-foreach ($arr as $value) {
+foreach ($arr as $value) 
+{
     echo $value . " ";
 }
 
