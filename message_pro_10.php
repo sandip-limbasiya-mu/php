@@ -1,3 +1,4 @@
 <?php
-echo "Welcome to PHP Programming!";
+
+echo "Welcome to PHP ";
 ?>
