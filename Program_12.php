@@ -28,7 +28,7 @@ echo "<br><br>";
 
 $laptop = array(
     "HP" => array(
-        "model" => "HP 15",
+        "model" => "asus f17",
         "price" => 60000
     ),
 
@@ -38,8 +38,8 @@ $laptop = array(
     ),
 
     "DELL" => array(
-        "model" => "Inspiron",
-        "price" => 50000
+        "model" => "victus",
+        "price" => 75000
     )
 );
 
