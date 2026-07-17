@@ -9,7 +9,6 @@ if ($num1 > $num2) {
     $max = $num2;
     $min = $num1;
 }
-
 echo "Maximum Number = " . $max . "<br>";
 echo "Minimum Number = " . $min;
 ?>
