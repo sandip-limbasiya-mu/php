@@ -2,16 +2,16 @@
 $month = date("n");
 
 
-echo "<h3>Using if..else</h3>";
+echo "<h3>Using if..else </h3>";
 
 if($month == 1)
-    echo "January";
+    echo "Jan";
 else if($month == 2)
-    echo "February";
+    echo "Feb";
 else if($month == 3)
-    echo "March";
+    echo "Mar";
 else if($month == 4)
-    echo "April";
+    echo "Apr";
 else if($month == 5)
     echo "May";
 else if($month == 6)
@@ -19,13 +19,13 @@ else if($month == 6)
 else if($month == 7)
     echo "July";
 else if($month == 8)
-    echo "August";
+    echo "Aug";
 else if($month == 9)
-    echo "September";
+    echo "Sep";
 else if($month == 10)
-    echo "October";
+    echo "Oct";
 else if($month == 11)
-    echo "November";
+    echo "Nov";
 else
     echo "December";
 
@@ -34,19 +34,19 @@ echo "<h3>Using switch case</h3>";
 switch($month)
 {
     case 1:
-        echo "January";
+        echo "Jan";
         break;
 
     case 2:
-        echo "February";
+        echo "Feb";
         break;
 
     case 3:
-        echo "March";
+        echo "Mar";
         break;
 
     case 4:
-        echo "April";
+        echo "Apr";
         break;
 
     case 5:
@@ -62,27 +62,26 @@ switch($month)
         break;
 
     case 8:
-        echo "August";
+        echo "Aug";
         break;
 
     case 9:
-        echo "September";
+        echo "Sep";
         break;
 
     case 10:
-        echo "October";
+        echo "Oct";
         break;
 
     case 11:
-        echo "November";
+        echo "Nov";
         break;
 
     case 12:
-        echo "December";
+        echo "Dec";
         break;
 
     default:
         echo "Invalid Month";
 }
-
 ?>
