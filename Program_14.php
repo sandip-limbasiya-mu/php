@@ -35,7 +35,7 @@
 
 <?php
 
-$conn = mysqli_connect("localhost","root","","bca_5c");
+$conn = mysqli_connect("localhost","root","","Bca_5C");
 
 if(!$conn)
 {
