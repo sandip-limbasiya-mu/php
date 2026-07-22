@@ -20,9 +20,7 @@
     Mobile:<br>
     <input type="text" name="mobile" required><br><br>
 
-    <input type="submit" name="submit" value="Save"><br><br>
-
-    <a href="update">forgot password ?</a>
+    <input type="submit" name="submit" value="Save">
 </form>
 
 <?php
